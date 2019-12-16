@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EyeCane</string>
+    <string name="title_activity_google_maps">Map</string>
+    <string name="permission_title" />
+    <string name="permission_detail" />
+    <string name="continue_and_learn" />
+</resources>
